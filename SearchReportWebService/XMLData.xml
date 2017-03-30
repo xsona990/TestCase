@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfSetting>
+  <Setting>
+    <Key>Settting1</Key>
+    <Value>Value1</Value>
+  </Setting>
+  <Setting>
+    <Key>Настройка1</Key>
+    <Value>Значение1</Value>
+  </Setting>
+  <Setting>
+    <Key>Параметр 1</Key>
+    <Value>Значение 1</Value>
+  </Setting>
+  <Setting>
+    <Key>Параметр из нескольких слов</Key>
+    <Value>Значение из нескольких слов 1</Value>
+  </Setting>
+  <Setting>
+    <Key>qwe rty</Key>
+    <Value>Значение из нескольких слов 2</Value>
+  </Setting>
+  <Setting>
+    <Key>rty uio</Key>
+    <Value>Значение из нескольких слов 3</Value>
+  </Setting>
+  <Setting>
+    <Key>uio pas</Key>
+    <Value>Значение из нескольких слов 4</Value>
+  </Setting>
+  <Setting>
+    <Key>pas dfg</Key>
+    <Value>Значение из нескольких слов 5</Value>
+  </Setting>
+  <Setting>
+    <Key>dfg hjk</Key>
+    <Value>Значение из нескольких слов 6</Value>
+  </Setting>
+  <Setting>
+    <Key>hjk lzx</Key>
+    <Value>Значение из нескольких слов 7</Value>
+  </Setting>
+  <Setting>
+    <Key>lzx cvb</Key>
+    <Value>Значение из нескольких слов 8</Value>
+  </Setting>
+  <Setting>
+    <Key>cvb nmq</Key>
+    <Value>Значение из нескольких слов 9</Value>
+  </Setting>
+</ArrayOfSetting>
